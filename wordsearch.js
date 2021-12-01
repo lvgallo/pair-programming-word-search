@@ -1,3 +1,5 @@
+// Pair Programming with Satya Sindhu
+
 const transpose = require('./transpose.js')
 
 const wordSearch = (letters, word) => { 
